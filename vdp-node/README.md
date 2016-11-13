@@ -2,7 +2,7 @@
 
 ## Installation
 
-Install the pakcage using 
+Install the package using 
 	
 	$ npm install
 
